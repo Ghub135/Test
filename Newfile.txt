@@ -1,1 +1,11 @@
 Creating a new file from GITHUB repo
+
+------------------------------------
+and pulled through following command
+>>git pull origin main
+
+Now I am updating in the local repo and pushing to GitHub
+
+>>git add .
+>>git commit
+>>git push origin main
